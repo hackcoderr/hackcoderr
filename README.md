@@ -59,7 +59,11 @@ LET'S CONNECT: 9084369325
 
 - Ask me about ...<a href="https://wa.me/+919084369325">WhatsApp</a> 💬
 
-- Reach me...<a href="hackcoderrr@gmail.com">Email</a> 📫 
+
+
+# My GitHub contributions as a Game of Life
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
 
 
