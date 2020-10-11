@@ -105,15 +105,22 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### On Going
 <!-- tils starts -->
-[Creating a Music and Video Player using Flutter farmwork](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) - 2020-10-10
 
-[Ansible Installation on AWS RHEL 8 & Docker Integration on Ansible](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) - 2020-10-07
+[Lauching an Instance and attaching a EBS using AWS CLI](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) 
 
-[Launching EC2 Instance on AWS Using Ansible](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) - 2020-10-04
+[Creating a Music and Video Player using Flutter farmwork](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) 
 
-[Create a Chat Application Using Flutter farmwork](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) - 2020-10-02
+[Ansible Installation on AWS RHEL 8 & Docker Integration on Ansible](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg)
 
-[Launching Docker using AWS and Run all Cmd Using Python](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) - 2020-10-02
+[Launching EC2 Instance on AWS Using Ansible](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) 
+
+[Creating a Chat Application Using Flutter farmwork](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) 
+
+[Launching Docker using AWS and Run all Cmd Using Python](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) 
+
+[Making a Technical Assistant using Python](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) 
+
+[Deploying Web Server & HAProxy load Balancer on AWS using Ansible](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) 
 
 </td></tr></table> </b>
 
