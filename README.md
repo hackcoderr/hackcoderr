@@ -107,7 +107,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 <!-- tils starts -->
 [Creating a Music and Video Player using Flutter farmwork](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) - 2020-10-10
 
-[Ansible Installation on AWS REHL 8 & Docker Integration on Ansible](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) - 2020-10-07
+[Ansible Installation on AWS RHEL 8 & Docker Integration on Ansible](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) - 2020-10-07
 
 [Launching EC2 Instance on AWS Using Ansible](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) - 2020-10-04
 
