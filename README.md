@@ -6,9 +6,8 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" />
 </p>
-
 <!--
 Here are some ideas to get you started:
 
