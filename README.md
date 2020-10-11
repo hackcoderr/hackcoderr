@@ -93,7 +93,8 @@ More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
  
  
-<img src="https://github.com/hackcoderr/hackcoderr/blob/master/images/stat.svg" alt="Sachin WakaTime Activity"/>
+## My WakaTime Coding Activity
+<img src="https://github.com/avinal/avinal/blob/master/images/stat.svg" alt="Avinal WakaTime Activity"/>
  
 
 ### On my blog
