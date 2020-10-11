@@ -1,4 +1,4 @@
-## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am Sachin 👨‍🎓
+## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Sachin 👨‍🎓
 
 
 
@@ -70,7 +70,7 @@ LET'S CONNECT: 9084369325
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hackcoderr&layout=compact&theme=radical" />
 </a>
 
-### Get in Touch 🌎 
+## Get in Touch 🌎 
 
 
 - Writing Technical Blogs on <a href="https://medium.com/@hackcoderr">Medium </a> ✍📃📚💼
