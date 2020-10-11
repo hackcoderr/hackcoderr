@@ -1,6 +1,6 @@
 ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,I am Sachin 
 
-<img src="https://raw.githubusercontent.com/raktim00/raktim00/main/Portfolio.gif" alt="Portfolio Template that says Raktim Midya - Tech Enthusiast alongside a cartoon illustration of Raktim">
+<img src="https://github.com/hackcoderr/hackcoderr/blob/main/assets/header.gif" alt="Portfolio Template that says Raktim Midya - Tech Enthusiast alongside a cartoon illustration of Raktim">
 
 <!--
 **hackcoderr/hackcoderr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
