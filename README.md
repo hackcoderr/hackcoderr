@@ -69,13 +69,13 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette 0.50.2](https://www.linkedin.com/pulse/setting-up-hadoop-cluster-top-aws-checking-existence-replica-kumar) - 2020-10-09
+[Creating a Hadoop Cluster at Top of AWS & Checking the Existence of Replica by the crashing DataNode ](https://www.linkedin.com/pulse/setting-up-hadoop-cluster-top-aws-checking-existence-replica-kumar) - 2020-10-09
 
-[datasette-cluster-map 0.12.4](https://www.linkedin.com/posts/hackcoderr_righteducation-rightmentor-vimaldaga-activity-6719325435383177217-rmF2) - 2020-10-07
+[Creating a Animation Application Using Flutter](https://www.linkedin.com/posts/hackcoderr_righteducation-rightmentor-vimaldaga-activity-6719325435383177217-rmF2) - 2020-10-07
 
-[datasette-edit-schema 0.3](https://www.linkedin.com/posts/hackcoderr_aws-awscloud-awscsa-activity-6714151324319125504-5oiW) - 2020-10-01
+[A Review and Case Studies on AWS](https://www.linkedin.com/posts/hackcoderr_aws-awscloud-awscsa-activity-6714151324319125504-5oiW) - 2020-10-01
 
-[datasette-dateutil 0.2.1](https://github.com/simonw/datasette-dateutil/releases/tag/0.2.1) - 2020-09-30
+
 
 
 </td><td valign="top" width="34%"> 
