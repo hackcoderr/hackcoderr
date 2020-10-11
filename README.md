@@ -5,18 +5,6 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-  
 
 
 
@@ -49,10 +37,6 @@ LET'S CONNECT: 9084369325
 
 ---
 
-
-
-
----
 
 <p align="center"> 
   <b>Visitor Count<b><br>
