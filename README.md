@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 <div align="centre">
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/hackcoderr)
-[![Linkedin Badge](https://img.shields.io/badge/-Sachin%20Kumar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/hackcoderr/)](https://www.linkedin.com/in/hackcoderr/) [![Twitter Badge](http://img.shields.io/badge/-@VedantKhairnar3-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/VedantKhairnar3)](https://twitter.com/VedantKhairnar3) [![GitHub followers](https://img.shields.io/github/followers/VedantKhairnar?label=Follow&style=social)](https://github.com/VedantKhairnar/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-kingsmanvk-blue?style=social&logo=Instagram&link=https://www.instagram.com/kingsmanvk/)](https://www.instagram.com/kingsmanvk/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Sachin%20Kumar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/hackcoderr/)](https://www.linkedin.com/in/hackcoderr/) [![Twitter Badge](http://img.shields.io/badge/-@hackcoderr-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/hackcoderr)](https://twitter.com/hackcoderr) [![GitHub followers](https://img.shields.io/github/followers/hackcoderr?label=Follow&style=social)](https://github.com/hackcoderr/?tab=follow)
+[![Instagram Badge](https://img.shields.io/badge/-hackcoderr-blue?style=social&logo=Instagram&link=https://www.instagram.com/hackcoderr/)](https://www.instagram.com/hackcoderr/) 
 [![Vedant Khairnar](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://vedantkhairnar.ml/)
 
 <!--[![Visitors](https://visitor-badge.glitch.me/badge?page_id=VedantKhairnar.visitor-badge)](https://github.com/VedantKhairnar)-->
