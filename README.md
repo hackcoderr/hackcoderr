@@ -59,7 +59,7 @@ LET'S CONNECT: 9084369325
 
 - Ask me about ...<a href="https://wa.me/+919084369325">WhatsApp</a> 💬
 
-- Reach me...📫 
+- Reach me...<a href="hackcoderrr@gmail.com">Email</a> 📫 
 
 
 
