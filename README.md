@@ -79,7 +79,7 @@ LET'S CONNECT: 9084369325
 
 - Reach me...<📫 
 
-![Image of me](https://github.com/WJimmyCook/hackcoderr/blob/master/me.gif?raw=true)
+![Image of me](https://github.com/hackcoderr/hackcoderr/blob/master/me.gif?raw=true)
 
 
 
