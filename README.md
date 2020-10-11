@@ -65,7 +65,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 <b>
 <table><tr><td valign="top" width="33%">
 
-### Recent releases
+### Recent Releases
 <!-- recent_releases starts -->
 [Creating a Hadoop Cluster at Top of AWS & Checking the Existence of Replica by the crashing DataNode ](https://www.linkedin.com/pulse/setting-up-hadoop-cluster-top-aws-checking-existence-replica-kumar) - 2020-10-09
 
@@ -83,7 +83,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
  
 
-### On my blog
+### On My Blog
 <!-- blog starts -->
 [Deployment of WordPress on Kubernetes and Integrating it with AWS RDS](https://www.linkedin.com/pulse/deployment-wordpress-kubernetes-integrating-aws-rds-sachin-kumar/) - 2020-09-02
 
@@ -129,8 +129,9 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 
+
 <p align="center"> 
-  <b>Thanks for visiting my profile, see you again,</b><br>
+  <b>Thanks for visiting my profile, See you again.</b><br>
   <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" />
 </p>
     <br>
