@@ -61,7 +61,7 @@ I m Sachin Kumar, a pursuing Computer Science Engineer With Cloud Computing And 
 
 
 
-Currently working on [Datasette](https://datasette.readthedocs.io/) and associated projects. Read [my blog](https://simonwillison.net/) or [follow @simonw on Twitter](https://twitter.com/simonw).
+
 <b>
 <table><tr><td valign="top" width="33%">
 
