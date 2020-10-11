@@ -131,9 +131,10 @@ I m Sachin Kumar, a pursuing Computer Science Engineer With Cloud Computing And 
 
 
 <p align="center"> 
-  <b>Thanks for visiting my profile, See you again.</b><br>
+  <b>Visitor Counts</b><br>
   <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" />
 </p>
     <br>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
