@@ -60,7 +60,7 @@ LET'S CONNECT: 9084369325
 
 
 <p align="center"> 
-  <h4>Visitor count<h4><br>
+  <b>Visitor Count<b><br>
   <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" />
 </p>
 
