@@ -6,7 +6,71 @@
 
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
+<a href="https://medium.com/@Demartini" target="_blank">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=071A2C" alt="Medium"/>
+  </a>
+  
+  <div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/giphy.webp" alt="Raghav Khullar" width="150" height="150" />
+</div>
+  
+  
+  <<div align="center">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="Raghav Khullar" width="150" height="150" />
+</div>
+  
+  
+### Can you break these counter?
 
+![Visitor Count](https://profile-counter.glitch.me/hackcoderr/count.svg)  
+
+
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=hackcoderr)](https://github.com/hackcoderr/github-profile-trophy)
+  
+  
+  
+  <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
+  
+   <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
+  
+  
+  ```text
+⌚︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+JavaScript               3 hrs 23 mins       ████████████████████░░░░░   81.76% 
+Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.65% 
+Vue.js                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.51% 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
+
+🔥 Editors: 
+VS Code                  3 hrs 46 mins       ██████████████████████░░░   91.07% 
+Zsh                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.76% 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17%
+
+💻 Operating System: 
+Linux                    2 hrs 48 mins       █████████████████░░░░░░░░   67.63% 
+Windows                  1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   32.37%
+
+```
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 
 <div align="center">
  
