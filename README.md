@@ -73,7 +73,9 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 [Creating a Animation Application Using Flutter](https://www.linkedin.com/posts/hackcoderr_righteducation-rightmentor-vimaldaga-activity-6719325435383177217-rmF2) - 2020-10-07
 
-[A Review and Case Studies on AWS](https://www.linkedin.com/posts/hackcoderr_aws-awscloud-awscsa-activity-6714151324319125504-5oiW) - 2020-10-01
+[A Review and Case Studies on AWS](https://www.linkedin.com/pulse/review-case-study-amazon-web-services-sachin-kumar) - 2020-09-22
+
+[A Review and Case Studies on BigData](https://www.linkedin.com/pulse/review-case-studies-bigdata-sachin-kumar) - 2020-09-16
 
 
 
@@ -85,36 +87,39 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 
 ### On my blog
 <!-- blog starts -->
-[Weeknotes: Mainly Datasette 0.50](http://simonwillison.net/2020/Oct/10/weeknotes-mainly-datasette-050/) - 2020-10-10
+[Deployment of WordPress on Kubernetes and Integrating it with AWS RDS](https://www.linkedin.com/pulse/deployment-wordpress-kubernetes-integrating-aws-rds-sachin-kumar/) - 2020-09-02
 
-[Datasette 0.50: The annotated release notes](http://simonwillison.net/2020/Oct/9/datasette-0-50/) - 2020-10-09
+[Launching the WordPress on Google Cloud Platform using the Concept of Kubernetes](https://www.linkedin.com/pulse/launching-wordpress-google-cloud-platform-using-concept-sachin-kumar/) - 2020-08-28
 
-[Git scraping: track changes over time by scraping to a Git repository](http://simonwillison.net/2020/Oct/9/git-scraping/) - 2020-10-09
+[Deploy Infrastructure(website) On AWS and integrating with EFS(storage) using Terraform](https://www.linkedin.com/pulse/deploy-infrastructurewebsite-aws-integrating-efsstorage-sachin-kumar/) - 2020-08-19
 
-[Weeknotes: Datasette column actions, plus three new plugins](http://simonwillison.net/2020/Oct/2/datasette-column-actions/) - 2020-10-02
+[Launching Webserver on AWS cloud using Terraform](https://www.linkedin.com/pulse/launching-webserver-aws-cloud-using-terraform-sachin-kumar/) - 2020-08-17
 
-[Weeknotes: software carpentry, compiling modules for SQLite](http://simonwillison.net/2020/Sep/26/weeknotes-software-carpentry-sqlite/) - 2020-09-26
-<!-- blog ends -->
-More on [simonwillison.net](https://simonwillison.net/)
+[Create AWS VPC with Public Subnet, Private Subnet, Internet Gateway and NAT Gateway then deploy WordPress and Database Server](https://www.linkedin.com/pulse/create-aws-vpc-public-subnet-private-internet-gateway-sachin-kumar/) - 2020-07-15
+
+[Create VPC and Deploy Public WordPress Server with Private Database Server using Terraform.](https://www.linkedin.com/pulse/create-vpc-deploy-public-wordpress-server-private-database-kumar/) - 2020-07-14
+
+[Completely Managed PHP Website Development on AWS EKS with Prometheus and Grafana](https://www.linkedin.com/pulse/completely-managed-php-website-development-aws-eks-prometheus-kumar/) - 2020-07-12
+
 </td><td valign="top" width="33%">
 
-### TIL
+### On Going
 <!-- tils starts -->
-[Searching for repositories by topic using the GitHub GraphQL API](https://til.simonwillison.net/til/til/github_graphql-search-topics.md) - 2020-10-10
+[Creating a Music and Video Player using Flutter farmwork](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) - 2020-10-10
 
-[Running Datasette on DigitalOcean App Platform](https://til.simonwillison.net/til/til/digitalocean_datasette-on-digitalocean-app-platform.md) - 2020-10-07
+[Ansible Installation on AWS REHL 8 & Docker Integration on Ansible](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) - 2020-10-07
 
-[Manipulating query strings with URLSearchParams](https://til.simonwillison.net/til/til/javascript_manipulating-query-params.md) - 2020-10-04
+[Launching EC2 Instance on AWS Using Ansible](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) - 2020-10-04
 
-[Using async/await in JavaScript in Selenium](https://til.simonwillison.net/til/til/selenium_async-javascript-in-selenium.md) - 2020-10-02
+[Create a Chat Application Using Flutter farmwork](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) - 2020-10-02
 
-[Installing Selenium for Python on macOS with ChromeDriver](https://til.simonwillison.net/til/til/selenium_selenium-python-macos.md) - 2020-10-02
-<!-- tils ends -->
-More on [til.simonwillison.net](https://til.simonwillison.net/)
+[Create a website to launch a Docker for Non-Technical User](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) - 2020-10-02
+
 </td></tr></table> </b>
 
-<a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
+<!--Game-->
 
+<a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
 
 
 
