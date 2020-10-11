@@ -128,7 +128,7 @@ More on [til.simonwillison.net](https://til.simonwillison.net/)
 
 
 <p align="center"> 
-  <b>Visitor Count<b><br>
+  <b>Thanks for visiting my profile, see you again,</b><br>
   <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" />
 </p>
     <br>
