@@ -15,8 +15,6 @@
 [![Instagram Badge](https://img.shields.io/badge/-hackcoderr-blue?style=social&logo=Instagram&link=https://www.instagram.com/hackcoderr/)](https://www.instagram.com/hackcoderr/) 
 
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=VedantKhairnar.visitor-badge)](https://github.com/VedantKhairnar)
-[![visitors](https://hit-badger.glitch.me/badge?page_id=VedantKhairnar.id)
  </div>
 
 ## About Me
@@ -37,10 +35,10 @@ I m Sachin Kumar, a pursuing Computer Science Engineer With Cloud Computing And 
 
     
 <a href="https://github.com/hackcoderr/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hackcoderr&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hackcoderr&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin's github stats" />
 </a>
 <a href="https://github.com/hackcoderr/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+ 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hackcoderr&layout=compact&theme=radical" />
 </a>
 
@@ -129,7 +127,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 <a href="https://github.com/hackcoderr/hackcoderr"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
 
 
-
+![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
 
 <p align="center"> 
   <b>Thanks for visiting my profile, see you again,</b><br>
