@@ -38,11 +38,7 @@ LET'S CONNECT: 9084369325
 ---
 
 
-<p align="center"> 
-  <b>Visitor Count<b><br>
-  <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" />
-</p>
-    <br>
+
     
 <a href="https://github.com/hackcoderr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hackcoderr&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
@@ -53,12 +49,7 @@ LET'S CONNECT: 9084369325
 </a>
 
 
- 
-## My WakaTime Coding Activity
-<img src="https://github.com/hackcoderr/hackcoderr/blob/master/images/stat.svg" alt="Avinal WakaTime Activity"/>
-
- Get in Touch 🌎 
-
+## Get in Touch 🌎 
 
 
 
@@ -136,6 +127,10 @@ More on [til.simonwillison.net](https://til.simonwillison.net/)
 
 
 
-
+<p align="center"> 
+  <b>Visitor Count<b><br>
+  <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" />
+</p>
+    <br>
 
 
