@@ -5,7 +5,6 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 
-<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,10 +12,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
   
 
@@ -78,6 +76,11 @@ LET'S CONNECT: 9084369325
 - Sharing achievements and working updates on <a href="https://www.linkedin.com/in/hackcoderr">LinkedIn </a> 🏆🥇⏱👨‍✈️
 
 - Ask me about ...<a href="https://wa.me/+919084369325">WhatsApp</a> 💬
+
+- Reach me...<📫 
+
+![Image of me](https://github.com/WJimmyCook/wjimmycook/blob/master/me.gif?raw=true)
+
 
 
 
