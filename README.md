@@ -21,6 +21,8 @@
 
 I m Sachin Kumar, a pursuing Computer Science Engineer With Cloud Computing And IoT Security Technology And Works For The Cyberzine Group. The Group researches at Security Solutions.  As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields.
 
+## 
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -29,7 +31,7 @@ I m Sachin Kumar, a pursuing Computer Science Engineer With Cloud Computing And 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
----
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -165,7 +167,7 @@ I m Sachin Kumar, a pursuing Computer Science Engineer With Cloud Computing And 
 
 </td></tr></table> </b>
 
-## Connect with me  
+## 
 <div align="center">
 <a href="https://github.com/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
