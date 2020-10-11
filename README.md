@@ -23,10 +23,6 @@
 
 I m Sachin Kumar, a pursuing Computer Science Engineer With Cloud Computing And IoT Security Technology And Works For The Cyberzine Group. The Group researches at Security Solutions.  As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields.
 
-Email: hackcoderrr@gmail.com
-
-LET'S CONNECT: 9084369325
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -61,9 +57,9 @@ LET'S CONNECT: 9084369325
 
 
 
-# My GitHub contributions as a Game of Life
+## My GitHub contributions as a Game of Life
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
+[![GitHub Game of Life](https://github4life.herokuapp.com/hackcoderr.gif?z=6)](https://github4life.herokuapp.com/hackcoderr)
 
 
 
