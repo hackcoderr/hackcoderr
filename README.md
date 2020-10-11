@@ -4,10 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" />
-</p>
+
 <!--
 Here are some ideas to get you started:
 
@@ -61,6 +58,11 @@ LET'S CONNECT: 9084369325
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hackcoderr&layout=compact&theme=radical" />
 </a>
 
+
+<p align="center"> 
+  <h4>Visitor count<h4><br>
+  <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" />
+</p>
 
 
 
