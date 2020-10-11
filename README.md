@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
@@ -51,6 +51,17 @@ LET'S CONNECT: 9084369325
 
 ---
 
+
+
+
+---
+
+<p align="center"> 
+  <b>Visitor Count<b><br>
+  <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" />
+</p>
+    <br>
+    
 <a href="https://github.com/hackcoderr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hackcoderr&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
 </a>
@@ -59,12 +70,15 @@ LET'S CONNECT: 9084369325
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hackcoderr&layout=compact&theme=radical" />
 </a>
 
----
+### Get in Touch 🌎 
 
-<p align="center"> 
-  <b>Visitor Count<b><br>
-  <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" />
-</p>
+
+- Writing Technical Blogs on <a href="https://medium.com/@hackcoderr">Medium </a> ✍📃📚💼
+
+- Sharing achievements and working updates on <a href="https://www.linkedin.com/in/hackcoderr">LinkedIn </a> 🏆🥇⏱👨‍✈️
+
+- Ask me about ...<a href="https://wa.me/+919084369325">WhatsApp</a> 💬
+
 
 
 
