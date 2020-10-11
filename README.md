@@ -52,6 +52,11 @@ LET'S CONNECT: 9084369325
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hackcoderr&layout=compact&theme=radical" />
 </a>
 
+
+ 
+## My WakaTime Coding Activity
+<img src="https://github.com/avinal/avinal/blob/master/images/stat.svg" alt="Avinal WakaTime Activity"/>
+
 ## Get in Touch 🌎 
 
 
@@ -92,9 +97,7 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
  
- 
-## My WakaTime Coding Activity
-<img src="https://github.com/avinal/avinal/blob/master/images/stat.svg" alt="Avinal WakaTime Activity"/>
+
  
 
 ### On my blog
