@@ -79,7 +79,7 @@ I m Sachin Kumar, a pursuing Computer Science Engineer With Cloud Computing And 
 <br/>  
 
 
-## Github Process
+## Github Progess
     
 <a href="https://github.com/hackcoderr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hackcoderr&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin's github stats" />
@@ -106,17 +106,7 @@ I m Sachin Kumar, a pursuing Computer Science Engineer With Cloud Computing And 
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/hackcoderr.gif?z=6)](https://github4life.herokuapp.com/hackcoderr)
 
-
-#### ∞ contributions in the last year
-
-| <img src="https://raw.githubusercontent.com/nilfalse/nilfalse/master/contributions.gif" alt="Contributions" width="722px" height="112px" /> |
-| ------------------------------------------------------------------------------------------------------------------------------------------- |
-
-
-[Learn how we count contributions](https://nilfalse.com/)
-
-
-
+<!--BLOG Process-->
 
 <b>
 <table><tr><td valign="top" width="33%">
