@@ -64,29 +64,21 @@ I m Sachin Kumar, a pursuing Computer Science Engineer With Cloud Computing And 
 
 
 Currently working on [Datasette](https://datasette.readthedocs.io/) and associated projects. Read [my blog](https://simonwillison.net/) or [follow @simonw on Twitter](https://twitter.com/simonw).
-
+<b>
 <table><tr><td valign="top" width="33%">
 
 ### Recent releases
 <!-- recent_releases starts -->
-[datasette 0.50.2](https://github.com/simonw/datasette/releases/tag/0.50.2) - 2020-10-10
+[datasette 0.50.2](https://www.linkedin.com/pulse/setting-up-hadoop-cluster-top-aws-checking-existence-replica-kumar) - 2020-10-09
 
-[datasette-cluster-map 0.12.4](https://github.com/simonw/datasette-cluster-map/releases/tag/0.12.4) - 2020-10-01
+[datasette-cluster-map 0.12.4](https://www.linkedin.com/posts/hackcoderr_righteducation-rightmentor-vimaldaga-activity-6719325435383177217-rmF2) - 2020-10-07
 
-[datasette-edit-schema 0.3](https://github.com/simonw/datasette-edit-schema/releases/tag/0.3) - 2020-10-01
+[datasette-edit-schema 0.3](https://www.linkedin.com/posts/hackcoderr_aws-awscloud-awscsa-activity-6714151324319125504-5oiW) - 2020-10-01
 
 [datasette-dateutil 0.2.1](https://github.com/simonw/datasette-dateutil/releases/tag/0.2.1) - 2020-09-30
 
-[datasette-import-table 0.2](https://github.com/simonw/datasette-import-table/releases/tag/0.2) - 2020-09-28
 
-[sqlite-utils 2.21](https://github.com/simonw/sqlite-utils/releases/tag/2.21) - 2020-09-24
-
-[dogsheep-beta 0.9a0](https://github.com/dogsheep/dogsheep-beta/releases/tag/0.9a0) - 2020-09-20
-
-[github-to-sqlite 2.6](https://github.com/dogsheep/github-to-sqlite/releases/tag/2.6) - 2020-09-17
-<!-- recent_releases ends -->
-More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
-</td><td valign="top" width="34%">
+</td><td valign="top" width="34%"> 
  
 
  
@@ -119,7 +111,7 @@ More on [simonwillison.net](https://simonwillison.net/)
 [Installing Selenium for Python on macOS with ChromeDriver](https://til.simonwillison.net/til/til/selenium_selenium-python-macos.md) - 2020-10-02
 <!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
-</td></tr></table>
+</td></tr></table> </b>
 
 <a href="https://github.com/simonw/simonw/actions"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a> <a href="https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/">How this works</a>
 
