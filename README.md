@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 
 
@@ -24,7 +24,7 @@
 
 I m Sachin Kumar, a pursuing Computer Science Engineer With Cloud Computing And IoT Security Technology And Works For The Cyberzine Group. The Group researches at Security Solutions.  As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields.
 
-## Tools & Technologies
+## 🛠 Tools & Technologies
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -48,6 +48,7 @@ I m Sachin Kumar, a pursuing Computer Science Engineer With Cloud Computing And 
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
+ ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 
 
 
