@@ -91,6 +91,10 @@ Currently working on [Datasette](https://datasette.readthedocs.io/) and associat
 <!-- recent_releases ends -->
 More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
+ 
+ 
+<img src="https://github.com/hackcoderr/hackcoderr/blob/master/images/stat.svg" alt="Sachin WakaTime Activity"/>
+ 
 
 ### On my blog
 <!-- blog starts -->
