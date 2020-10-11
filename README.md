@@ -35,6 +35,11 @@ Here are some ideas to get you started:
  </div>
 
 ---
+I m Sachin Kumar, a pursuing Computer Science Engineer With Virtualization And Cloud Computing And IoT Security Technology And Works For The Cyberzine Group. The Group researches at Security Solutions.  As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure
+
+Email: hackcoderrr@gmail.com
+
+LET'S CONNECT: 9084369325
 
 **Languages and Tools:**  
 
