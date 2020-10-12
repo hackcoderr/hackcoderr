@@ -1,12 +1,26 @@
 ## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Sachin 👨‍🎓
 
 <!--Header-->
- <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
  
 
 
 ##
   
+
+
+<!--About Me-->
+<div>
+ <p>
+  <img width="240" height="230" align='right' src="https://github.com/hackcoderr/hackcoderr/blob/main/assets/about.png">
+</p>
+
+## About Me
+
+I m Sachin Kumar, a pursuing Computer Science Engineer With Cloud Computing And IoT Security Technology And Works For The Cyberzine Group. The Group researches at Security Solutions.  As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
+
+
+</div>
 <!--social media icon-->
 <div align="center">
  
@@ -19,19 +33,6 @@
 </div>  
 
 </br>
-
-<!--About Me-->
-
- <p>
-  <img width="300" height="300" align='left' src="https://github.com/hackcoderr/hackcoderr/blob/main/assets/about.png">
-</p>
-
-## About Me
-
-I m Sachin Kumar, a pursuing Computer Science Engineer With Cloud Computing And IoT Security Technology And Works For The Cyberzine Group. The Group researches at Security Solutions.  As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
-
-
-
  
 
   
