@@ -1,7 +1,7 @@
 ## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Sachin 👨‍🎓
 
 <!--Header-->
- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+ <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
  
 
 
@@ -23,7 +23,7 @@
 <!--About Me-->
 
  <p>
-  <img width="150" align='right' src="https://github.com/hackcoderr/hackcoderr/blob/main/assets/about.png">
+  <img width="300" height="300" align='left' src="https://github.com/hackcoderr/hackcoderr/blob/main/assets/about.png">
 </p>
 
 ## About Me
