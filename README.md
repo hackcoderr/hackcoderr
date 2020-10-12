@@ -14,8 +14,7 @@ Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a Full Stack Develop
 - 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
 - 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
 
- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
- 
+
 
 
 ##
@@ -50,7 +49,7 @@ Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a Full Stack Develop
 
 ## Tachnical Skills 🛠 
 
-<img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='200"'>
+<img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
 
 As we all know that under the engineer there are technical skills to a great extent.These technical skills of the engineer also help him in the same way all the time. Just as the weapons and scriptures of a war Yodhya protects her life from her enemies. I am also an engineer, so I too should have such weapons and scriptures, so I too have a lot of technical skills, some of which are
 
@@ -121,13 +120,7 @@ but also gives you various benefits which can improve the quality of your life. 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hackcoderr&layout=compact&theme=radical" />
 </a>
 
-
-  
-  
-  
- <hr>
-
-<h2 align="center">Repositories</h2>
+<div align="center">
 
 <p width="100%" align="center">
   <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham"></a>
@@ -150,47 +143,7 @@ but also gives you various benefits which can improve the quality of your life. 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h4 align="center"><a href=https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-## Get in Touch 🌎 
-
-
-
-- Writing Technical Blogs on <a href="https://medium.com/@hackcoderr">Medium </a> ✍📃📚💼
-
-- Sharing achievements and working updates on <a href="https://www.linkedin.com/in/hackcoderr">LinkedIn </a> 🏆🥇⏱👨‍✈️
-
-- Ask me about ...<a href="">WhatsApp</a> 💬
-
-
-
----------
-<p  align="center">
-  
-  <img src="https://raw.githubusercontent.com/hackcoderr/hackcoderr/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
-  <img src="https://raw.githubusercontent.com/hackcoderr/hackcoderr/master/profile-summary-card-output/default/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/hackcoderr/hackcoderr/master/profile-summary-card-output/default/2-most-commit-language.svg"></br>
-
-
-
-------------
-
-
-
-
-
-
+</div>  
 
 
 
