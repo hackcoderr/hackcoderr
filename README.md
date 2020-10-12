@@ -52,11 +52,9 @@ I m Sachin Kumar, a pursuing Computer Science Engineer With Cloud Computing And 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
  ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
-
-
-
-
-
+ ![Debian](https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white)
+ ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
+ ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
 
 
 <!--Github Progess bar-->
@@ -71,16 +69,12 @@ I m Sachin Kumar, a pursuing Computer Science Engineer With Cloud Computing And 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hackcoderr&layout=compact&theme=radical" />
 </a>
 
-
+<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=hackcoderr)](https://github.com/hackcoderr/github-profile-trophy)
   
   
   
-  <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
-  
-   <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
+ 
   
 
 
