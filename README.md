@@ -72,11 +72,23 @@ Hi guys, this part is under process
  ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
  ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
  ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
+ 
+ 
+ <!--My Hobbies-->
+ 
+ <img align='right' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/hobbies.png' width='300"'>
+
+## My Hobbies ✍
+ 
+Having a hobby is a great thing for each and everyone because it not only entertains you, but also gives you various benefits which can improve the quality of your life. It reduces your mental stress and gives a soothing and relaxing feeling. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession and some of them are as follows
+
+
+
 
 
 <!--Github Progess bar-->
 
-## Github Progess
+## Quick Overview
     
 <a href="https://github.com/hackcoderr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hackcoderr&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin's github stats" />
