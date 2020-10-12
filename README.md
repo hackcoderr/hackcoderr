@@ -220,7 +220,7 @@ Hi guys, this part is under process
    
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
+
 
 <a href="https://github.com/hackcoderr/hackcoderr"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
 
