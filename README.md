@@ -120,10 +120,10 @@ but also gives you various benefits which can improve the quality of your life. 
 </a>
 
 ##
-<div align="center">
+
 
 ### 📢 Find me elsewhere
-<p align="left">
+<p align="center">
   <a href="https://www.codechef.com/users/abhimaira_10">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
@@ -141,8 +141,7 @@ but also gives you various benefits which can improve the quality of your life. 
   </a> &nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
-</div>
+<hr>>
 
 
 
