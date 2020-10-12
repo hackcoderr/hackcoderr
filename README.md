@@ -39,12 +39,18 @@
 
 ## 🛠 Tools & Technologies
 
+<!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
+<img align='left' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 
+Hi guys, this part is under process
+
+**Languages**
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 [![FastAPI](https://img.shields.io/badge/Python_framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -64,6 +70,8 @@
  ![Debian](https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white)
  ![Slack](https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white)
  ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white)
+ ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
+ ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
 
 
 <!--Github Progess bar-->
@@ -165,6 +173,10 @@
 </td></tr></table> </b>
 
 ## 
+<!-- Feel free to reach out and introduce yourself :D-->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/hedythedev">reach out</a> and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 💜</em>
+
+
 <div align="center">
 <a href="https://github.com/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -189,9 +201,12 @@
 
 <br/>  
 
-<!--Game-->
+
 
 <a href="https://github.com/hackcoderr/hackcoderr"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
+
+
+
 
 
 ![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
