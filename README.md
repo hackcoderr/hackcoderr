@@ -23,7 +23,7 @@
 <!--About Me-->
 
  <p>
-  <img width="150" align='right' src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif">
+  <img width="150" align='right' src="https://github.com/hackcoderr/hackcoderr/blob/main/assets/about.png">
 </p>
 
 ## About Me
