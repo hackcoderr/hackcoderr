@@ -152,6 +152,16 @@ Having a hobby is a great thing for each and everyone because it not only entert
   
 
 
+
+
+
+
+
+
+
+
+
+
 ## Get in Touch 🌎 
 
 
@@ -161,6 +171,29 @@ Having a hobby is a great thing for each and everyone because it not only entert
 - Sharing achievements and working updates on <a href="https://www.linkedin.com/in/hackcoderr">LinkedIn </a> 🏆🥇⏱👨‍✈️
 
 - Ask me about ...<a href="https://wa.me/+919084369325">WhatsApp</a> 💬
+
+
+
+---------
+<p  align="center">
+  
+  <img src="https://raw.githubusercontent.com/hackcoderr/hackcoderr/master/profile-summary-card-output/default/0-profile-details.svg" alt="github stats"></br>
+  <img src="https://raw.githubusercontent.com/hackcoderr/hackcoderr/master/profile-summary-card-output/default/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/hackcoderr/hackcoderr/master/profile-summary-card-output/default/2-most-commit-language.svg"></br>
+
+
+
+------------
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -273,7 +306,9 @@ Having a hobby is a great thing for each and everyone because it not only entert
 
 ![Chart not found](https://github.com/anmol098/anmol098/blob/master/charts/bar_graph.png) 
 
+📊 **This week I spent my time on**
 
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5)
 
 
 
