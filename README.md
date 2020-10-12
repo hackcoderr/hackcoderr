@@ -33,11 +33,9 @@
 
 </div>
 
- 
+<!--technical skill-->
 
-  
-
-## 🛠 Tools & Technologies
+## Tachnical Skills 🛠 
 
 <img align='left' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 
@@ -123,6 +121,10 @@ Having a hobby is a great thing for each and everyone because it not only entert
 ## My GitHub contributions as a Game of Life
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/hackcoderr.gif?z=6)](https://github4life.herokuapp.com/hackcoderr)
+
+
+
+
 
 <!--BLOG Process-->
 
