@@ -173,8 +173,9 @@ Hi guys, this part is under process
 </td></tr></table> </b>
 
 ## 
+
 <!-- Feel free to reach out and introduce yourself :D-->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://twitter.com/hedythedev">reach out</a> and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 💜</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to reach out and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 💜</em>
 
 
 <div align="center">
@@ -202,18 +203,8 @@ Hi guys, this part is under process
 <br/>  
 
 
-
-
-
-
-
-
-
-
-
-
 <p align="center"> 
-  Can you break this count?</b><br>
+ <b> Can you break this count?</b><br>
   <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" />
 </p>
 
