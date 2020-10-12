@@ -76,11 +76,15 @@ Hi guys, this part is under process
  
  <!--My Hobbies-->
  
- <img align='right' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/hobbies.png' width='300"'>
+ 
 
 ## My Hobbies ✍
  
-Having a hobby is a great thing for each and everyone because it not only entertains you, but also gives you various benefits which can improve the quality of your life. It reduces your mental stress and gives a soothing and relaxing feeling. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession and some of them are as follows
+Having a hobby is a great thing for each and everyone because it not only entertains you,<img align='right' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/hobbies.png' width='300"'>
+but also gives you various benefits which can improve the quality of your life. It reduces your mental stress and gives a soothing and relaxing feeling. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession and some of them are as follows.
+
+Having a hobby is a great thing for each and everyone because it not only entertains you, but also gives you various benefits which can improve the quality of your life. It reduces your mental stress and gives a soothing and relaxing feeling. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession and some of them are as follows.
+
 
 
 
