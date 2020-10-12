@@ -109,7 +109,7 @@ but also gives you various benefits which can improve the quality of your life. 
 
 <!--Github Progess bar-->
 
-## Quick Overview
+## Quick Overview 📝
     
 <a href="https://github.com/hackcoderr/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hackcoderr&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin's github stats" />
@@ -119,36 +119,8 @@ but also gives you various benefits which can improve the quality of your life. 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hackcoderr&layout=compact&theme=radical" />
 </a>
 
+##
 <div align="center">
-
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=gotham"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=gotham"></a>
-</p>
-<br><br>
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Turkce-Heceleme-CPP" title="Turkce-Heceleme-CPP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Turkce-Heceleme-CPP&theme=gotham"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/CopyMoveForgeryDetectionWithDCT" title="Copy&Move Forgery Detection With DCT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=CopyMoveForgeryDetectionWithDCT&theme=gotham"></a>
-</p>
-<br><br>
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/cpp-openmp-needleman-wunsch" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-openmp-needleman-wunsch&theme=gotham"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/cpp-artificial-neural-networks" title="Artificial Neural Networks"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=cpp-artificial-neural-networks&theme=gotham"></a>
-</p>
-<br><br>
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/javascript-minesweeper" title="Minesweeper"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=javascript-minesweeper&theme=gotham"></a>
-  <a align="right" href="https://github.com/zumrudu-anka/KTU-TraditionalComputerOlympics-2019" title="KTU Traditional Computer Olympics 2019-2020"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=KTU-TraditionalComputerOlympics-2019&theme=gotham"></a>
-</p>
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-<h4 align="center"><a href=https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
-
-</div>  
-
-
-
-
-
-
 
 ### 📢 Find me elsewhere
 <p align="left">
@@ -170,7 +142,7 @@ but also gives you various benefits which can improve the quality of your life. 
 </p>
 
 <hr>
-
+</div>
 
 
 
