@@ -2,8 +2,8 @@
 
 <!--Header-->
 
-Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@CreativeCommons](https://opensource.creativecommons.org/community/community-team/members/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
-
+Hi, I'm [Abhishek Naidu](https://blog.abhisheknaidu.tech/), a Full Stack Developer 🚀 from India, currently, I'm a Project Collaborator 🙍🏽‍♂️ [@CreativeCommons](https://opensource.creativecommons.org/community/community-team/members/), Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling. thother part so it is taking some time . till then please wait mand pkeep hajsjkjdkjeirifdhjdfbfjsdkzdjklsadjiuierhis part is in progress, so it will take a some time . I am workong on djkdfjkjfjkjdfkjiuriakslduryudjsjdkhdfsuhzkjJdjfyrudhajevuyvujzkchvjjkzxhcdhufeyfudjzkdhfugfcxvjgfhxdhjsuydusjdfdufhdjuhffhhfdgjjnc,muruutyydnxnbhfgjdskdjksaklals,,x.,wpdpkdlfjdkfhjdfkjdhdjnkfhuj
+hwdhdjfdhfjhgfdjxhf
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
