@@ -100,7 +100,7 @@ As we all know that under the engineer there are technical skills to a great ext
  
 Having a hobby is a great <img align='right' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/hobbies.png' width='300"'>thing for each and everyone because it not only entertains you,
 but also gives you various benefits which can improve the quality of your life. It reduces your mental stress and gives a soothing and relaxing feeling. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession and some of them are as follows.
-<hr>
+##
 <p align="center">
   <a href="https://www.codechef.com/users/abhimaira_10">
     <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
@@ -119,7 +119,7 @@ but also gives you various benefits which can improve the quality of your life. 
   </a> &nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>>
+##
 
 
 
