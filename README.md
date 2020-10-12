@@ -46,7 +46,7 @@
 
 <img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
 
-As we all know that under the engineer there are technical skills to a great extent.These technical skills of the engineer also help him in the same way all the time. Just as the weapons and scriptures of a war Yodhya protects her life from her enemies. I am also an engineer, so I too should have such weapons and scriptures, so I too have a lot of technical skills, some of which are
+As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time, Just as <b>Yodhya</b> protects his life from his enemies using the weapons and scriptures in a war. I am also an engineer, so I too should have such weapons and scriptures, so I  have some technical skills too,  which are the following but I am also in a learning state and learning many tools and technologies under the World Record Holder [Mr. Vimal Daga](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in the one of the best training Program [Arth-the school of technologies](https://rightarth.com/) of [Linux World informatics Pvt Ltd](https://www.linuxworldindia.org/).
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
