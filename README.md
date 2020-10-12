@@ -15,7 +15,7 @@
 - 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
 
 a similar way over a local area network. Short messages are typically transmitted between two parties, when each user chooses to complete a thought and select 
-
+typically transmitted between two parties, when each user chooses to complete a thought and select 
 ##
   <!--social media icon-->
 <div align="center">
