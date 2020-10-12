@@ -139,8 +139,14 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ##
 
+**Timeline**
 
-### 📢 Find me elsewhere
+![Chart not found](https://github.com/anmol098/anmol098/blob/master/charts/bar_graph.png) 
+
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5)
+
 
 
 
@@ -226,13 +232,7 @@ but also gives you various benefits which can improve the quality of your life. 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-**Timeline**
 
-![Chart not found](https://github.com/anmol098/anmol098/blob/master/charts/bar_graph.png) 
-
-📊 **This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5)
 
 
 
