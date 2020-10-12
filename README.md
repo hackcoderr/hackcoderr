@@ -1,71 +1,11 @@
 ## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Sachin 👨‍🎓
 
-
-
-
-
+<!--Header-->
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 
   
-  
-  <<div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="Raghav Khullar" width="150" height="150" />
-</div>
-  
-  
-### Can you break these counter?
-
-![Visitor Count](https://profile-counter.glitch.me/hackcoderr/count.svg)  
-
-
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=hackcoderr)](https://github.com/hackcoderr/github-profile-trophy)
-  
-  
-  
-  <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
-  
-   <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
-  
-  
-  ```text
-⌚︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-JavaScript               3 hrs 23 mins       ████████████████████░░░░░   81.76% 
-Other                    26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.65% 
-Vue.js                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.51% 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
-
-🔥 Editors: 
-VS Code                  3 hrs 46 mins       ██████████████████████░░░   91.07% 
-Zsh                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.76% 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17%
-
-💻 Operating System: 
-Linux                    2 hrs 48 mins       █████████████████░░░░░░░░   67.63% 
-Windows                  1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   32.37%
-
-```
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
+<!--social media icon-->
 <div align="center">
  
  
@@ -81,6 +21,11 @@ Windows                  1 hr 20 mins        ████████░░░�
 ## About Me
 
 I m Sachin Kumar, a pursuing Computer Science Engineer With Cloud Computing And IoT Security Technology And Works For The Cyberzine Group. The Group researches at Security Solutions.  As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields.
+
+ 
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="Sachin Kumar" width="150" height="150" />
+
+  
 
 ## 🛠 Tools & Technologies
 
@@ -125,6 +70,18 @@ I m Sachin Kumar, a pursuing Computer Science Engineer With Cloud Computing And 
  
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hackcoderr&layout=compact&theme=radical" />
 </a>
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hackcoderr)](https://github.com/hackcoderr/github-profile-trophy)
+  
+  
+  
+  <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
+  
+   <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
+  
+  <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
+  
 
 
 ## Get in Touch 🌎 
@@ -243,6 +200,7 @@ I m Sachin Kumar, a pursuing Computer Science Engineer With Cloud Computing And 
   <img src="https://profile-counter.glitch.me/hackcoderr/count.svg" />
 </p>
    <br>
+ 
    
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
