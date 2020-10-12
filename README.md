@@ -9,6 +9,7 @@
   <img align="left" alt="GIF" src="https://media.giphy.com/media/hLBiOLs1Xri03yRIH3/giphy.gif" width="400" height="220" />
   
 ##
+<hr>
   <!--social media icon-->
 <div align="center">
  
