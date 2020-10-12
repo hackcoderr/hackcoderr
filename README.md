@@ -36,6 +36,73 @@ typically transmitted between two parties, when each user chooses to complete a 
  <p>
   <img width="240" height="230" align='right' src="https://github.com/hackcoderr/hackcoderr/blob/main/assets/about.png">
 </p>
+  
+  
+   <div class="container">
+          <div class="flexslider-info">
+            <section class="slider col-md-6">
+              <div class="flexslider">
+                <ul class="slides">
+                  <li>
+                    <div class="info">
+                      <h1>Hi, I'm <span>Sachin </span></h1>
+                      <p>
+                        A pursing computer science engineer with IoT Security,
+                        Virtualization and Cloud Computing
+                      </p>
+                      <ul>
+                        <li><a href="#" class="more">Hire Me</a></li>
+                        <li>
+                          <a href="#contact" class="scroll contact"
+                            >Contact Me</a
+                          >
+                        </li>
+                      </ul>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="info">
+                      <h2>Hi, I'm a<span> Researcher</span></h2>
+                      <p>
+                        A Researcher who is working on IoT Security with the
+                        Cyberzine Group which works on security
+                      </p>
+                      <ul>
+                        <li><a href="#" class="more">Hire Me</a></li>
+                        <li>
+                          <a href="#contact" class="scroll contact"
+                            >Contact Me</a
+                          >
+                        </li>
+                      </ul>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="info">
+                      <h3>I'm a <span>Developer</span></h3>
+                      <p>
+                        A front end web developer with html, css, javascript and
+                        jquery
+                      </p>
+                      <ul>
+                        <li><a href="#" class="more">Hire Me</a></li>
+                        <li>
+                          <a href="#contact" class="scroll contact"
+                            >Contact Me</a
+                          >
+                        </li>
+                      </ul>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </section>
+            <div class="clearfix"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
 
 ## About Me ✍
  
