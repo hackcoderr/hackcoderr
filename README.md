@@ -39,12 +39,10 @@
 
 ## 🛠 Tools & Technologies
 
-<!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
 <img align='left' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
 
-Hi guys, this part is under process
+As we all know that under the engineer there are technical skills to a great extent.These technical skills of the engineer also help him in the same way all the time. Just as the weapons and scriptures of a war Yodhya protects her life from her enemies. I am also an engineer, so I too should have such weapons and scriptures, so I too have a lot of technical skills, some of which are
 
-**Languages**
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
