@@ -15,7 +15,9 @@ Text messages are used for personal, family, business and social purposes. Gover
 - 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
 - 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
 
+a similar way over a local area network. Short messages are typically transmitted between two parties, when each user chooses to complete a thought and select "send". Some IM applications can use push technology to provide real-time text, which transmits messages character by character, as they are composed. More advanced instant messaging can add file transfer, clickable hyperlinks, Voice over IP, or video chat.
 
+Non-IM types of chat include multicast transmission, usually referred to as "chat rooms", where participants might be anonymous or might be previously known to each other (for example collaborators on a project that is using chat to facilitate communication). Instant messaging systems tend to facilitate connections between specified known users (often using a contact list also known as a "buddy list" or "friend list"). Depending on the IM protocol, the technical architecture can be peer-to-peer (direct point-to-point transmission) or client-server (an Instant message service center retransmits messages from the sender to the communication device
 
 
 ##
