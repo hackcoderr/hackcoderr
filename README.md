@@ -35,7 +35,7 @@
 
 ## About Me ✍
  
- I m <b> Sachin Kumar</b>, a pursuing <b>Computer Science Engineer With Cloud Computing And IoT Security Technology</b> And Works For [<b>The Cyberzine Group</b>](http://thecyberzine.com/). The Group researches at Security Solutions.  As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
+ I m <b> Sachin Kumar</b>, a pursuing <b>Computer Science Engineer With Cloud Computing And IoT Security Technology</b> And Works For [<b>The Cyberzine Group</b>](http://thecyberzine.com/) under the mentorship of [<b>Dr. Preeti Mishra</b>](http://thecyberzine.com/founder.html). The Group researches at Security Solutions.  As a professional, I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
 
 
 </div>
@@ -46,7 +46,7 @@
 
 <img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
 
-As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time, Just as <b>Yodhya</b> protects his life from his enemies using the weapons and scriptures in a war. I am also an engineer, so I too should have such weapons and scriptures, so I  have some technical skills too,  which are the following but I am also in a learning state and learning many tools and technologies under the World Record Holder [Mr. Vimal Daga](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in the one of the best training Program [Arth-the school of technologies](https://rightarth.com/) of [Linux World informatics Pvt Ltd](https://www.linuxworldindia.org/).
+As we all know that under <b>engineering</b>, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time, Just as <b>Yodhya</b> protects his life from his enemies using the weapons and scriptures in a war. I am also an engineer, so I too should have such weapons and scriptures, so I  have some technical skills too,  which are the following but I am also in a learning state and learning many tools and technologies under the World Record Holder [<b>Mr. Vimal Daga</b>](https://www.linkedin.com/in/vimaldaga/?originalSubdomain=in) in the one of the best training Program [<b>Arth-the school of technologies</b>](https://rightarth.com/) of [<b>Linux World informatics Pvt Ltd</b>](https://www.linuxworldindia.org/).
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
@@ -94,8 +94,8 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 
 <img align='left' src='https://octodex.github.com/images/hula_loop_octodex03.gif' width='200"'>
  
-Having a hobby is a great <img align='right' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/hobbies.png' width='300"'>thing for each and everyone because it not only entertains you,
-but also gives you various benefits which can improve the quality of your life. It reduces your mental stress and gives a soothing and relaxing feeling. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession and some of them are as follows.
+Having a hobby is a <b>great</b> <img align='right' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/hobbies.png' width='300"'><b>thing</b> for each and everyone because it not only entertains you,
+but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession and some of them are as follows.
 ##
 <p align="center">
   <a href="#">
