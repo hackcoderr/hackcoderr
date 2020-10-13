@@ -42,7 +42,7 @@
 
 <!--technical skill-->
 
-## Tachnical Skills 🛠 
+## Technical Skills 🛠 
 
 <img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
 
