@@ -151,6 +151,9 @@ but also gives you various benefits which can improve the quality of your life. 
 
 ### Recent Releases
 <!-- recent_releases starts -->
+[Lauching an Instance and attaching a EBS using AWS CLI](https://www.linkedin.com/posts/hackcoderr_launching-an-instance-and-attaching-with-activity-6722476917137793024-I62A) - 2020-10-15
+
+
 [Creating a Hadoop Cluster at Top of AWS & Checking the Existence of Replica by the crashing DataNode ](https://www.linkedin.com/pulse/setting-up-hadoop-cluster-top-aws-checking-existence-replica-kumar) - 2020-10-09
 
 [Creating a Animation Application Using Flutter](https://www.linkedin.com/posts/hackcoderr_righteducation-rightmentor-vimaldaga-activity-6719325435383177217-rmF2) - 2020-10-07
@@ -188,7 +191,7 @@ but also gives you various benefits which can improve the quality of your life. 
 ### On Going
 <!-- tils starts -->
 
-[Lauching an Instance and attaching a EBS using AWS CLI](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) 
+
 
 [Creating a Music and Video Player using Flutter farmwork](https://github.com/hackcoderr/hackcoderr/blob/main/assets/work%20in%20process.jpg) 
 
