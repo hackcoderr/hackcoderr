@@ -40,7 +40,7 @@
 
 </div>
 
-<!--technical skill-->
+<!--technical skills-->
 
 ## Technical Skills 🛠 
 
@@ -193,7 +193,7 @@ but also gives you various benefits which can improve the quality of your life. 
 </td><td valign="top" width="33%">
 
 ### On Going
-<!-- tils starts -->
+<!-- Articles' starts-->
 
 
 
