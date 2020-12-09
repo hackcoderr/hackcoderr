@@ -135,11 +135,7 @@ but also gives you various benefits which can improve the quality of your life. 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hackcoderr&layout=compact&theme=radical" />
 </a>
 
-###
 
-<b>My GitHub contributions as a Game of Life</b>
-
-[![GitHub Game of Life](https://github4life.herokuapp.com/hackcoderr.gif?z=6)](https://github4life.herokuapp.com/hackcoderr)
 
 ##
 
