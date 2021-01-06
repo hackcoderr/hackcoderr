@@ -6,7 +6,7 @@
   
   </div>
   
-  <br>.
+  <br>
   
   <!--social media icon-->
 <div align="center">
