@@ -1,15 +1,9 @@
 ## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Sachin 👨‍🎓
 
 <!--Header-->
-
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="414" height="320" />
   
-  <img align="left" alt="GIF" src="https://media.giphy.com/media/hLBiOLs1Xri03yRIH3/giphy.gif" width="390" height="320" />
+  <img align="left" alt="GIF" src="https://github.com/hackcoderr/hackcoderr/blob/main/assets/banner.gif" />
   
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 ##
   <!--social media icon-->
 <div align="center">
