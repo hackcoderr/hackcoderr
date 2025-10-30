@@ -14,10 +14,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/hackcoderr)
 [![Linkedin Badge](https://img.shields.io/badge/-Sachin%20Kumar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/hackcoderr/)](https://www.linkedin.com/in/hackcoderr/) [![Twitter Badge](http://img.shields.io/badge/-@hackcoderr-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/hackcoderr)](https://twitter.com/hackcoderr) [![GitHub followers](https://img.shields.io/github/followers/hackcoderr?label=Follow&style=social)](https://github.com/hackcoderr/?tab=follow)
 [![Instagram Badge](https://img.shields.io/badge/-hackcoderr-blue?style=social&logo=Instagram&link=https://www.instagram.com/hackcoderr/)](https://www.instagram.com/hackcoderr/) 
-
-
 </div>  
-
 </br>
 
 
@@ -27,8 +24,6 @@
   <img width="240" height="230" align='right' src="https://github.com/hackcoderr/hackcoderr/blob/main/assets/oct-about.png"> 
 </p>
   
-
-
 ## About Me ✍
 
 **Site Reliability Engineer — DevOps & Cloud · Reliability · Automation · Scale**
@@ -79,12 +74,6 @@ As we all know that under <b>engineering</b>, technical skills always provide un
  [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
  [![LATEX](https://img.shields.io/badge/-LATEX-black?logo=latex&style=social)&nbsp;&nbsp;
-
-
-
-<!-- GitHub Activity Graph -->
-[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hackcoderr&theme=react-dark)](https://github.com/hackcoderr/github-readme-activity-graph)
-
  <!--My Hobbies-->
  
  
