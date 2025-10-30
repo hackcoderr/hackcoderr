@@ -89,14 +89,34 @@ As we all know that under <b>engineering</b>, technical skills always provide un
  
  
 
-## My Hobbies ✍
+## My Hobbies & Interests 🎯
 
 <img align='left' src='https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif' width='200'>
- 
-Having a hobby is a <b>great</b> <img align='right' src='https://github.com/hackcoderr/hackcoderr/blob/main/assets/hobby.png' width='300"'><b>thing</b> for each and everyone because it not only entertains you,
-but also gives you various benefits which can improve the quality of your life. It <b>reduces your mental stress and gives a soothing and relaxing feeling</b>. My hobby is also one of them and I read various kinds of books. I have also started writing so that I could make my hobby as my profession and some of them are as follows.
 
+Tech enthusiast by profession, adventure seeker by heart! When I'm not automating infrastructure or debugging systems, you'll find me:
 
+🌎 **Exploring New Places**
+- Discovering hidden local spots and cultures
+- Weekend road trips with my crew
+- Collecting memories & stories from different cities
+
+👥 **Quality Time with My Squad**
+- Gaming sessions & tech discussions
+- Casual meetups & spontaneous plans
+- Building memories over coffee & code
+
+🔧 **Tech Tinkering**
+- Playing with new tools & technologies
+- Building fun weekend projects
+- Learning through hands-on experiments
+
+Life's all about balancing good tech, great friends, and epic adventures! Always up for:
+- Trying new food spots
+- Impromptu travel plans
+- Tech meetups & conferences
+- Gaming tournaments with friends
+
+If you're into tech adventures or just want to hang out and geek about DevOps, hit me up! Always excited to connect with fellow tech enthusiasts and travelers.
 
 <!--Github Progess bar-->
 
