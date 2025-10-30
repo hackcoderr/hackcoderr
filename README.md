@@ -91,32 +91,17 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 
 ## My Hobbies & Interests 🎯
 
-<img align='left' src='https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif' width='200'>
+<img align='right' src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' width='200'>
 
-Tech enthusiast by profession, adventure seeker by heart! When I'm not automating infrastructure or debugging systems, you'll find me:
+Tech geek who loves life beyond the terminal! You'll find me:
 
-🌎 **Exploring New Places**
-- Discovering hidden local spots and cultures
-- Weekend road trips with my crew
-- Collecting memories & stories from different cities
+🌎 **Explorer** | Weekend wanderer • Food trail hunter • City hopper
 
-👥 **Quality Time with My Squad**
-- Gaming sessions & tech discussions
-- Casual meetups & spontaneous plans
-- Building memories over coffee & code
+🎮 **Squad Time** | Gaming marathons • Tech hangouts • Coffee & code sessions
 
-🔧 **Tech Tinkering**
-- Playing with new tools & technologies
-- Building fun weekend projects
-- Learning through hands-on experiments
+⚡ **Tech Play** | Weekend projects • New tool experiments • Hackathon fun
 
-Life's all about balancing good tech, great friends, and epic adventures! Always up for:
-- Trying new food spots
-- Impromptu travel plans
-- Tech meetups & conferences
-- Gaming tournaments with friends
-
-If you're into tech adventures or just want to hang out and geek about DevOps, hit me up! Always excited to connect with fellow tech enthusiasts and travelers.
+Always up for impromptu trips, gaming nights, or geeking out over DevOps! Let's connect if you're into any of these! 🚀
 
 <!--Github Progess bar-->
 
