@@ -82,10 +82,8 @@ As we all know that under <b>engineering</b>, technical skills always provide un
 
 
 
-![Sachin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hackcoderr&theme=react-dark)
-
-
-
+<!-- GitHub Activity Graph -->
+[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hackcoderr&theme=react-dark)](https://github.com/hackcoderr/github-readme-activity-graph)
 
  <!--My Hobbies-->
  
@@ -128,7 +126,7 @@ but also gives you various benefits which can improve the quality of your life. 
 <div>
 <img align="left" width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hackcoderr&show_icons=true&include_all_commits=true&theme=radical" alt="Sachin's github stats" />
 </p>
-<img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hackcoderr&theme=tokyonight" alt="hackcoderr"/>
+<img align="center" width="48%" src="https://streak-stats.demolab.vercel.app/?user=hackcoderr&theme=tokyonight" alt="hackcoderr"/>
  <img align="center"  width="40%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hackcoderr&layout=compact&theme=radical" alt="hackcoderr" />
   <img align="right"  width="40%" src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=17695132" alt="hackcoderr" />
  
