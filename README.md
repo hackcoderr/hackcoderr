@@ -1,4 +1,4 @@
-## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I am Sachin 👨‍🎓
+## Hi <𝚌𝚘𝚍𝚎𝚝𝚜/>!, I am Sachin 👨‍💻
 
 <!--Header-->
   <div>
@@ -30,9 +30,18 @@
 
 
 ## About Me ✍
- 
- I'm <b> Sachin Kumar</b>, a curious person, Who wants to know every bit of **DevOps** and **Cloud Computing**. I am keen to learn new things every day and passionate about exploring the latest technologies from a learning perspective, and always looking forward to migrating them, To be profitable to the organization and I believe in continuous improvement in myself. I have the immense aptitude for learning and the ability to adapt and excel in a multicultural environment. As a person, I am friendly and good at motivating people in a team environment. With my hard work, I developed effective research and analytical skills as well as the ability to meet deadlines under pressure. I always passionate about understanding the core concepts behind different popular Technological Fields. 
 
+**Site Reliability Engineer — DevOps & Cloud · Reliability · Automation · Scale**
+
+Engineer focused on reliability, automation and scale. I design and operate resilient systems by automating repeatable work, codifying infrastructure, and installing observability that surfaces real issues early.
+
+What I deliver:
+- Infrastructure as Code & repeatable pipelines (Terraform, Helm, GitOps)
+- Containerized workloads & orchestration (Docker, Kubernetes)
+- Robust observability & incident playbooks (Prometheus, Grafana, ELK)
+- Faster, safer releases via CI/CD and automated testing
+
+Core values: reduce toil, improve uptime, and deliver measurable improvements. Always learning — always shipping.
 
 </div>
 
